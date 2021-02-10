@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title> Carlos</title>
+	</head>
+	<body background="fondo.jfif">
+		<center>
+			<font color="yellow">
+			<h1> Mi Primer Sitio Web </h1>
+			<table width=75%>
+			<tr>
+				<td><font color="white">Home</font></td>
+				<td><font color="white">Tareas</font></td>
+				<td><font color="white">Conoceme</font></td>
+			</tr>
+		</table>
+	</font>
+
+			<hr>
+			<p>
+			<a href="http://www.prepa2030.org"> Prepa 2030 </a>
+		    </p>
+		    <a href="http://prepa2030online.com"> 
+		    	<img src="escudo.png" width="100" 
+		    </a>
+
+		    <p>
+		    	<a href="Casas_JuanCarlos_Tarea1.pdf">Tarea 1</a>
+		    </p>
+
+		    <iframe width="560" height="315" src="https://www.youtube.com/embed/kN1XP-Bef7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		    <hr>
+		    	<table border="10" width=75%>
+		    		<tr>
+		    			<td><font color="white">Nombre</font></td>
+		    			<td><font color="white">Apellido</font></td>
+		    			<td><font color="white">Apellido</font></td>
+		    			<td><font color="white">Sexo</font></td>
+
+		    		</tr>
+
+		    		<tr>
+		    			<td><font color="white">María</font></td>
+		    			<td><font color="white">García</font></td>
+		    			<td><font color="white">Pérez</font></td>
+		    			<td><font color="white">Mujer</font></td>
+		    		</tr>
+
+		    		<tr>
+		    			<td><font color="white">Juan</font></td>
+		    			<td><font color="white">Fierro</font></td>
+		    			<td><font color="white">Saenz</font></td>
+		    			<td><font color="white">Hombre</font></td>
+		    		</tr>
+		    	</table>
+		</center>
+
+</html>
